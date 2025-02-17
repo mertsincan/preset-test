@@ -1,0 +1,10 @@
+packages:
+  - 'playgrounds/*'
+
+catalog:
+  '@primeuix/themes': 0.1.0-beta.5
+
+catalogs:
+  vue:
+    'primevue': latest
+    '@primevue/auto-import-resolver': latest
